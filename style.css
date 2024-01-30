@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.log-entry {
+    display: flex;
+    margin-bottom: 10px;
+}
+.log-entry input, .log-entry select {
+    margin-right: 10px;
+}
+.remove-btn {
+    cursor: pointer;
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+}
